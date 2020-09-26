@@ -78,6 +78,7 @@ const TextsContainer = styled.div`
 `
 
 const MainLogo = styled.img`
+  margin-top: 1rem;
   max-width: 30%;
   max-height: 300px;
 `
